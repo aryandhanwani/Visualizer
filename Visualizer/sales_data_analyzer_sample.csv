@@ -1,0 +1,51 @@
+Date,Invoice ID,Customer Name,Product,Category,Quantity,Unit Price,Total,Payment Method,Region
+2025-05-09,INV1001,George Hall,Office Chair,Furniture,2,150.0,300.0,PayPal,North
+2025-05-05,INV1002,George Hall,Office Chair,Furniture,3,150.0,450.0,PayPal,West
+2025-05-07,INV1003,Linda Grey,Wireless Mouse,Electronics,5,25.5,127.5,Cash,North
+2025-05-10,INV1004,Sara Lee,Desk Lamp,Accessories,5,18.75,93.75,PayPal,North
+2025-05-04,INV1005,Tom Ray,Wireless Mouse,Electronics,4,25.5,102.0,PayPal,East
+2025-05-01,INV1006,Sara Lee,Noise Cancelling Headphones,Electronics,4,89.99,359.96,PayPal,South
+2025-05-03,INV1007,Ross Geller,Sticky Notes,Stationery,2,0.75,1.5,Cash,East
+2025-05-08,INV1008,Linda Grey,Sticky Notes,Stationery,3,0.75,2.25,PayPal,South
+2025-05-10,INV1009,Alan Bright,"Monitor 24""",Electronics,5,129.99,649.95,PayPal,East
+2025-05-08,INV1010,Jane Smith,Notebook,Stationery,2,2.5,5.0,Credit Card,North
+2025-05-06,INV1011,John Doe,Wireless Mouse,Electronics,5,25.5,127.5,Cash,East
+2025-05-10,INV1012,John Doe,Notebook,Stationery,3,2.5,7.5,Credit Card,South
+2025-05-11,INV1013,Alan Bright,"Monitor 24""",Electronics,5,129.99,649.95,Credit Card,North
+2025-05-02,INV1014,Alan Bright,Ergonomic Keyboard,Electronics,1,45.0,45.0,Cash,South
+2025-05-07,INV1015,Tom Ray,Notebook,Stationery,4,2.5,10.0,PayPal,East
+2025-05-08,INV1016,Tom Ray,"Monitor 24""",Electronics,3,129.99,389.97,PayPal,East
+2025-05-06,INV1017,Rachel Green,Notebook,Stationery,1,2.5,2.5,Credit Card,East
+2025-05-01,INV1018,Sara Lee,Sticky Notes,Stationery,2,0.75,1.5,Credit Card,East
+2025-05-08,INV1019,Tom Ray,"Monitor 24""",Electronics,3,129.99,389.97,PayPal,East
+2025-05-02,INV1020,Linda Grey,Ergonomic Keyboard,Electronics,1,45.0,45.0,Credit Card,West
+2025-05-11,INV1021,Alan Bright,Laptop Stand,Accessories,1,40.0,40.0,PayPal,East
+2025-05-07,INV1022,Rachel Green,"Monitor 24""",Electronics,2,129.99,259.98,Cash,South
+2025-05-11,INV1023,Linda Grey,Wireless Mouse,Electronics,3,25.5,76.5,Cash,North
+2025-05-05,INV1024,Tom Ray,Notebook,Stationery,2,2.5,5.0,Cash,South
+2025-05-04,INV1025,Mary Clark,Pens Pack,Stationery,2,1.2,2.4,PayPal,North
+2025-05-10,INV1026,Alan Bright,Pens Pack,Stationery,2,1.2,2.4,Credit Card,West
+2025-05-01,INV1027,Alan Bright,Ergonomic Keyboard,Electronics,4,45.0,180.0,Credit Card,East
+2025-05-05,INV1028,Tom Ray,Notebook,Stationery,3,2.5,7.5,PayPal,West
+2025-05-03,INV1029,John Doe,Wireless Mouse,Electronics,2,25.5,51.0,Credit Card,South
+2025-05-02,INV1030,John Doe,Pens Pack,Stationery,2,1.2,2.4,PayPal,East
+2025-05-06,INV1031,Tom Ray,Office Chair,Furniture,1,150.0,150.0,Cash,North
+2025-05-10,INV1032,Linda Grey,Wireless Mouse,Electronics,1,25.5,25.5,Credit Card,North
+2025-05-11,INV1033,Mary Clark,Noise Cancelling Headphones,Electronics,2,89.99,179.98,Cash,West
+2025-05-03,INV1034,Mary Clark,"Monitor 24""",Electronics,1,129.99,129.99,Credit Card,West
+2025-05-03,INV1035,Ross Geller,"Monitor 24""",Electronics,4,129.99,519.96,Credit Card,West
+2025-05-03,INV1036,Alan Bright,Office Chair,Furniture,1,150.0,150.0,PayPal,East
+2025-05-11,INV1037,Rachel Green,"Monitor 24""",Electronics,3,129.99,389.97,Credit Card,South
+2025-05-01,INV1038,Sara Lee,Desk Lamp,Accessories,5,18.75,93.75,Credit Card,South
+2025-05-03,INV1039,George Hall,Wireless Mouse,Electronics,4,25.5,102.0,PayPal,West
+2025-05-08,INV1040,Jane Smith,Wireless Mouse,Electronics,2,25.5,51.0,Cash,North
+2025-05-09,INV1041,Tom Ray,Desk Lamp,Accessories,2,18.75,37.5,Cash,North
+2025-05-11,INV1042,Tom Ray,Desk Lamp,Accessories,5,18.75,93.75,Credit Card,South
+2025-05-06,INV1043,Linda Grey,Noise Cancelling Headphones,Electronics,4,89.99,359.96,Credit Card,West
+2025-05-07,INV1044,Jane Smith,Laptop Stand,Accessories,2,40.0,80.0,Cash,East
+2025-05-04,INV1045,Ross Geller,Wireless Mouse,Electronics,5,25.5,127.5,PayPal,North
+2025-05-02,INV1046,Linda Grey,Notebook,Stationery,4,2.5,10.0,Cash,South
+2025-05-11,INV1047,George Hall,Laptop Stand,Accessories,4,40.0,160.0,Cash,East
+2025-05-01,INV1048,Sara Lee,"Monitor 24""",Electronics,1,129.99,129.99,Cash,West
+2025-05-01,INV1049,George Hall,Noise Cancelling Headphones,Electronics,2,89.99,179.98,Cash,South
+2025-05-08,INV1050,Sara Lee,Sticky Notes,Stationery,1,0.75,0.75,Credit Card,West
