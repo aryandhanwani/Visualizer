@@ -213,7 +213,7 @@ try:
                 print()
     
                 if choice6==1:
-                    print(self.__df__.isna(),"\n")
+                    print(self.__df__.isna().sum(),"\n")
                 
                 elif choice6==2:
                     val=input("Enter the Value: ")
@@ -227,7 +227,7 @@ try:
                     print(self.__df__.dropna())
                 
                 elif choice6==5:
-                    print(self.__df__.duplicated())
+                    print(self.__df__.duplicated().sum())
                 
                 elif choice6==6:
                     print(self.__df__.drop_duplicates())
@@ -235,8 +235,10 @@ try:
                     print("Invalid Choice\n")
     
         def visualization(self):
+            
             if self.data_loaded==False:
                 print("Data is not Loaded yet. Please load the data first\n")
+            
             else:
                 print("1. Bar Plot")
                 print("2. Line Plot")
@@ -400,9 +402,8 @@ try:
             if self.data_loaded==False:
                 print("Data is not Loaded yet. Please load the data first\n")
             else:
-                filename = input("Enter file name to save the graph: ")
                 self.figure.savefig(filename)
-                
+                filename = input("Enter file name to save the graph: ")
     
     sale=sales_data_analyzer()
     
