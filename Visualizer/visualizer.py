@@ -402,8 +402,8 @@ try:
             if self.data_loaded==False:
                 print("Data is not Loaded yet. Please load the data first\n")
             else:
-                self.figure.savefig(filename)
                 filename = input("Enter file name to save the graph: ")
+                self.figure.savefig(filename)
     
     sale=sales_data_analyzer()
     
